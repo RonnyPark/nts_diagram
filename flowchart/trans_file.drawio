@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T05:50:06.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Xfj800cGdhiTJDbJANMD" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T07:37:16.442Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="l6Tiz8m1vB738CUk_cXh" version="15.0.4" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1822" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Console&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;Uploaded [DOC_FILE]&lt;/u&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Varela Round;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" vertex="1">
-          <mxGeometry x="-16" y="247" width="174" height="90" as="geometry" />
+          <mxGeometry x="-16" y="194.5" width="174" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Client" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" vertex="1">
-          <mxGeometry x="26" y="81" width="90" height="60" as="geometry" />
+          <mxGeometry x="-180" y="101" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Browser" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="262" width="90" height="60" as="geometry" />
+          <mxGeometry x="-180" y="209.5" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="36" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" source="3" target="2" edge="1">
+        <mxCell id="36" value="" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" source="3" target="2" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-200" y="261" as="sourcePoint" />
             <mxPoint x="-100" y="161" as="targetPoint" />
@@ -26,34 +26,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="52" value="Web UI" style="text;spacingTop=-5;align=center;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="262" width="30" height="20" as="geometry" />
+          <mxGeometry x="-70" y="249.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="53" value="API" style="text;spacingTop=-5;align=center;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" vertex="1">
-          <mxGeometry x="36" y="179" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="54" value="Documentation&#xa;from similar projects" style="text;spacingTop=-5;align=center;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" vertex="1">
-          <mxGeometry x="-34" y="352" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" target="2" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="40" y="402" as="sourcePoint" />
-            <mxPoint x="-70" y="441" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="40" y="381" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" source="2" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-170" y="511" as="sourcePoint" />
-            <mxPoint x="60" y="402" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="60" y="371" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="57" value="Elaborate&#xa;cost/benefit&#xa;ratio" style="text;spacingTop=-5;align=center;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" vertex="1">
-          <mxGeometry x="86" y="352" width="30" height="20" as="geometry" />
+          <mxGeometry x="31" y="141" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-102" value="" style="group;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="329.5" y="231" width="86" height="400" as="geometry" />
@@ -61,28 +37,31 @@
         <mxCell id="K-xb-uSYliZ07DOGXeEE-97" value="KAFKA" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;rotation=90;fontSize=16;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
           <mxGeometry x="-157" y="157" width="400" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-98" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-98" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;original&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
           <mxGeometry x="8" y="39" width="70" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-99" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-99" value="segmented" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;fontStyle=1" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
           <mxGeometry x="8" y="110" width="70" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-100" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
-          <mxGeometry x="8" y="252" width="70" height="44" as="geometry" />
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-100" value="&lt;font style=&quot;font-size: 10px&quot;&gt;pre&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;fontStyle=1" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
+          <mxGeometry x="8" y="239" width="70" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-101" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-101" value="post" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;fontStyle=1" vertex="1" parent="K-xb-uSYliZ07DOGXeEE-102">
           <mxGeometry x="8" y="312" width="70" height="44" as="geometry" />
         </mxCell>
         <mxCell id="93" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" parent="1" source="2" target="K-xb-uSYliZ07DOGXeEE-98" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="644.5" y="691" as="sourcePoint" />
             <mxPoint x="834.5" y="622" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="248" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-103" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;SPS&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;parsing [DOC_FILE]&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Varela Round;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;arcSize=4;" vertex="1" parent="1">
-          <mxGeometry x="580" y="150" width="310" height="365.5" as="geometry" />
+          <mxGeometry x="580" y="150" width="310" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-104" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-98" target="K-xb-uSYliZ07DOGXeEE-106">
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-104" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;dashed=1;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-98" target="K-xb-uSYliZ07DOGXeEE-106">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="238" y="302" as="sourcePoint" />
             <mxPoint x="357.5" y="302" as="targetPoint" />
@@ -94,7 +73,7 @@
             <mxPoint x="1134.5" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-106" value="S" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;fontStyle=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;flipV=1;" vertex="1" parent="1">
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-106" value="S" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;fontStyle=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;flipV=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="650" y="214.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-108" value="extractParagraph&lt;br&gt;Text" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
@@ -106,7 +85,7 @@
         <mxCell id="K-xb-uSYliZ07DOGXeEE-110" value="replaceSentence&lt;br&gt;2PlaceHolder" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="284.5" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-111" value="replaceParagraph&lt;br&gt;Text2Concatenated&lt;br&gt;PlaceHolders" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-111" value="encode::Paragraph&lt;br&gt;Text2Concatenated&lt;br&gt;PlaceHolders" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="615" y="359.5" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-106" target="K-xb-uSYliZ07DOGXeEE-108">
@@ -164,7 +143,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-127" value="E" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;fontStyle=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;flipV=1;" vertex="1" parent="1">
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-127" value="E" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;fontStyle=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;flipV=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="785" y="438.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-128" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-123" target="K-xb-uSYliZ07DOGXeEE-127">
@@ -181,17 +160,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K-xb-uSYliZ07DOGXeEE-134" value="&lt;div&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;[DOC_FILE] include concatenated PlaceHolders&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="660" width="280" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-137" value="NFS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="290" y="10" width="184.5" height="160" as="geometry" />
+          <mxGeometry x="280.25" y="-19" width="184.5" height="229" as="geometry" />
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-138" value="Original File" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="311.13" y="40" width="142.25" height="50" as="geometry" />
+          <mxGeometry x="301.38" y="11" width="142.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-139" value="File included&lt;br&gt;PlaceHolders" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="311.13" y="101" width="142.25" height="50" as="geometry" />
+          <mxGeometry x="301.38" y="76" width="142.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K-xb-uSYliZ07DOGXeEE-135" value="" style="strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;dashed=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="2" target="K-xb-uSYliZ07DOGXeEE-138">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -208,7 +184,7 @@
             <mxPoint x="422.5" y="70" as="targetPoint" />
             <Array as="points">
               <mxPoint x="940" y="384" />
-              <mxPoint x="940" y="126" />
+              <mxPoint x="940" y="97" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -216,6 +192,185 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="238" y="290" as="sourcePoint" />
             <mxPoint x="311.3800000000001" y="46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-141" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Pre&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;...&lt;/u&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Varela Round;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="174" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-142" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;exitDx=0;exitDy=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-99" target="K-xb-uSYliZ07DOGXeEE-141">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="625" y="468.5" as="sourcePoint" />
+            <mxPoint x="417.5" y="373" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="363" />
+              <mxPoint x="250" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-144" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;entryDx=0;entryDy=0;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;exitDx=0;exitDy=0;entryX=0;entryY=0.5;exitX=0.5;exitY=0;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-141" target="K-xb-uSYliZ07DOGXeEE-100">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="289.5" y="600" as="sourcePoint" />
+            <mxPoint x="110" y="619" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-145" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;TRCS&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;u&gt;...&lt;/u&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Varela Round;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;" vertex="1" parent="1">
+          <mxGeometry x="580" y="541" width="174" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-146" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-100" target="K-xb-uSYliZ07DOGXeEE-145">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="168" y="631" as="sourcePoint" />
+            <mxPoint x="347.5" y="731.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="492" />
+              <mxPoint x="510" y="586" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-147" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-145" target="K-xb-uSYliZ07DOGXeEE-101">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="417.5" y="515" as="sourcePoint" />
+            <mxPoint x="590" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-148" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;Post&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;parsing [DOC_FILE]&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Varela Round;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;arcSize=4;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="320" width="338" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-149" value="" style="strokeColor=#990000;strokeWidth=2;entryDx=0;entryDy=0;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;exitDx=0;exitDy=0;exitX=0.75;exitY=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-141" target="K-xb-uSYliZ07DOGXeEE-101">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="280" y="810" as="sourcePoint" />
+            <mxPoint x="347.5" y="515" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="341" y="650" />
+              <mxPoint x="373" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-150" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-101" target="K-xb-uSYliZ07DOGXeEE-153">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="347.5" y="373" as="sourcePoint" />
+            <mxPoint x="110" y="471" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="565" />
+              <mxPoint x="210" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-151" value="" style="strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-139" target="K-xb-uSYliZ07DOGXeEE-153">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="463.3800000000001" y="75" as="sourcePoint" />
+            <mxPoint x="660" y="228.850475487028" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-153" value="S" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;fontStyle=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;flipV=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="66" y="390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-154" value="extractParagraph&lt;br&gt;Text" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="31" y="450" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-155" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-153" target="K-xb-uSYliZ07DOGXeEE-154">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="700" y="184.5" as="sourcePoint" />
+            <mxPoint x="760" y="184.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="86" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-157" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-154" target="K-xb-uSYliZ07DOGXeEE-161">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="815" y="208.5" as="sourcePoint" />
+            <mxPoint x="-20" y="474" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-158" value="placeholder_key&lt;br&gt;: translated_sentence_text" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fontSize=10;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-159" value="" style="elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-153" target="K-xb-uSYliZ07DOGXeEE-158">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="96" y="440" as="sourcePoint" />
+            <mxPoint x="50" y="554" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-160" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;placeholder_key,&lt;br&gt;translated_sentence_text&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="440" y="610" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-161" value="extractPlaceholderKey&lt;br&gt;FromParagraphText" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="450" width="130" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-162" value="decode::PlaceholderKey&lt;br&gt;2TranslatedSentenceText" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="520" width="130" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-163" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-161" target="K-xb-uSYliZ07DOGXeEE-162">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="41" y="484" as="sourcePoint" />
+            <mxPoint x="10" y="484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-164" value="Write File" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="31" y="520" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-165" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-162" target="K-xb-uSYliZ07DOGXeEE-164">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="41" y="484" as="sourcePoint" />
+            <mxPoint x="10" y="484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-166" value="" style="strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;edgeStyle=elbowEdgeStyle;dashed=1;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-158" target="K-xb-uSYliZ07DOGXeEE-162">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="76" y="420" as="sourcePoint" />
+            <mxPoint x="20" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-167" value="E" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=12;fontStyle=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;flipV=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="594" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-168" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-173" target="K-xb-uSYliZ07DOGXeEE-167">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="96" y="440" as="sourcePoint" />
+            <mxPoint x="96" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="96" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-171" value="Translated File" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="301.38" y="141" width="142.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-172" value="" style="strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-164" target="K-xb-uSYliZ07DOGXeEE-171">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="311.3800000000001" y="111" as="sourcePoint" />
+            <mxPoint x="115.08716216216226" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-173" value="Insert History" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="31" y="590" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-174" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-164" target="K-xb-uSYliZ07DOGXeEE-173">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="41" y="624" as="sourcePoint" />
+            <mxPoint x="-35" y="624" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-177" value="&lt;span style=&quot;font-size: 2px&quot;&gt;&lt;br style=&quot;font-size: 2px&quot;&gt;&lt;br style=&quot;font-size: 2px&quot;&gt;DB&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontSize=10;align=center;verticalAlign=top;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="56" y="690" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K-xb-uSYliZ07DOGXeEE-178" value="" style="strokeWidth=1;fontFamily=Varela Round;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DVarela%2BRound;strokeColor=#0000FF;edgeStyle=elbowEdgeStyle;dashed=1;" edge="1" parent="1" source="K-xb-uSYliZ07DOGXeEE-173" target="K-xb-uSYliZ07DOGXeEE-177">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-120" y="420" as="sourcePoint" />
+            <mxPoint x="90" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="86" y="680" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
